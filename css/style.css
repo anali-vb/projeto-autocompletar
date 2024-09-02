@@ -107,6 +107,7 @@
 
 #order-form-container select {
     padding: 1rem .75rem;
+}
 
 #order-form-container label {
     color: var(--text-color);
